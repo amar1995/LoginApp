@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans+Expanded:300');
+@import url('https://fonts.googleapis.com/css?family=Raleway:100');
+
+html{
+    overflow-x: hidden;
+}
+
+body{
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+.container{
+    margin-top: 15%;  
+}
+
+.center{
+    text-align: center;
+}
+
+.header{
+
+    font-family: 'Raleway', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans',  'Arial', 'sans-serif';  
+    margin-bottom: 5%;
+}
+
+@media(min-width: 568px){
+    .c{ 
+        margin-left: 26%;
+        width: 50%;
+    }
+    .but{
+        margin: 0 15% 0 18%;
+    }
+}

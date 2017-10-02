@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ashifatb/LoginApp/issues"
   },
-  "homepage": "https://github.com/ashifatb/LoginApp#readme"
+  "homepage": "https://github.com/ashifatb/LoginApp#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }
